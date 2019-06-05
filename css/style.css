@@ -683,7 +683,6 @@ img {
 }
 
 .logo {
-   
     width: 140px;
     -webkit-user-select: none;
     -moz-user-select: none;
@@ -701,31 +700,6 @@ img {
     height: 45px;
     width: 45px;
     transition: transform 0.6s cubic-bezier(0.075, 0.82, 0.165, 1);
-}
-
-
-/*************************TAGS***********************/
-
-
-
-.grafik {
-   
-    background-color: #06d6a0;
-}
-
-.online {
-
-    background-color: #ef476f;
-}
-
-.foto {
-   
-    background-color: #496ddb;
-}
-
-.video {
-    color: black;
-    background-color: #ffc43d;
 }
 
 
