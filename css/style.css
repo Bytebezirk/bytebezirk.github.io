@@ -473,6 +473,7 @@ body {
     font-family: RootUIreg, sans-serif;
     font-style: normal;
     font-size: 1rem;
+    line-height:1.5;
     background-color: #eaeae8;
     height: 100vw;
     width: 100%;
@@ -507,11 +508,6 @@ h3 {
     font-size: 1rem;
 }
 
-p {
-    color: rgba(0, 0, 0, 0.88);
-    font-style: normal;
-    line-height: 1.5;
-}
 
 /********************************************************VARIABLE FONTS******************************************************/
 
@@ -520,49 +516,12 @@ p {
         font-family: 'InterVar', sans-serif;
         font-variation-settings: "wght" 300;
     }
-    h2, h3, h4, h5, h6 {
+    h1, h2, h3, h4, h5, h6 {
         font-family: 'InterVar', sans-serif;
         font-variation-settings: "wght" 700;
-    }
-    .contentlink {
-        font-family: 'InterVar', sans-serif;
-        font-variation-settings: "wght" 700;
-    }
-
-    h1 {
-        font-family: 'InterVar', sans-serif;
-        font-variation-settings: "wght" 700;
-    }
-
-    a {
-        font-variation-settings: "wght" 700;
-        color: rgba(0, 0, 0, 0.88);
-    }
-
-    p {
-        font-variation-settings: "wght" 300;
-        color: rgba(0, 0, 0, 0.88);
-    }
-
-    .copy {
-        font-family: 'InterVar', sans-serif;
-        font-variation-settings: "wght" 350;
-    }
-    .lightheadline {
-        font-family: 'InterVar', sans-serif;
-        font-variation-settings: "wght" 300;
-    }
-
-    #menuside a {
-        font-family: 'InterVar', sans-serif;
-        font-variation-settings: "wght" 300;
     }
 }
 
-/********************************************************UTILITY KLASSEN******************************************************/
-
-
-/********************************************************ELEMENT STYLING******************************************************/
 
 /*************************GRID***********************/
 
