@@ -639,7 +639,7 @@ p {
 
 #swup {
     width: 100%;
-    max-width: 960px;
+    max-width: 786px;
     margin: 0 auto;
     display: grid;
     grid-template-areas:    "empty empty empty empty" 
