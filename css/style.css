@@ -466,7 +466,7 @@ html {
     width: 100%;
     overflow-x: hidden;
     font-size:15px;
-    background-color: #f9f9f9;
+    background-color: #ededed;
 }
 
 body {
@@ -475,7 +475,7 @@ body {
     font-style: normal;
     font-size: 1rem;
     line-height:1.5;
-    background-color: #f9f9f9;
+    background-color: #ededed;
     height: 100vw;
     width: 100%;
 }
@@ -537,12 +537,12 @@ h3 {
                             "footer footer footer footer";
     grid-template-columns: 25% 25% 25% 25%;
     grid-auto-rows: auto;
-    background-color: black;
+    background-color: #ededed;
 }
 
 .grid-item-main {
     padding: 0;
-    background-color: #f9f9f9;
+    background-color: #ededed;
 }
 
 .grid-item-main p, h1, h2, h3, h4 {
