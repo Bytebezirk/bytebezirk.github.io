@@ -530,6 +530,7 @@ h3 {
     width: 100%;
     max-width: 786px;
     margin: 0 auto;
+    padding-top:80px;
     display: grid;
     grid-template-areas:    "empty empty empty empty" 
                             "content content content content" 
