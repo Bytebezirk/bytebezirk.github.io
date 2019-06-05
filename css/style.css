@@ -466,6 +466,7 @@ html {
     width: 100%;
     overflow-x: hidden;
     font-size:15px;
+    background-color: #efefef;
 }
 
 body {
@@ -474,7 +475,7 @@ body {
     font-style: normal;
     font-size: 1rem;
     line-height:1.5;
-    background-color: #eaeae8;
+    background-color: #efefef;
     height: 100vw;
     width: 100%;
 }
@@ -540,7 +541,7 @@ h3 {
 
 .grid-item-main {
     padding: 0;
-    background-color: #eaeae8;
+    background-color: #efefef;
 }
 
 .grid-item-main p, h1, h2, h3, h4 {
@@ -550,13 +551,6 @@ h3 {
 .content-item {
     grid-area: content;
     overflow:hidden;
-}
-
-.content-empty {
-    grid-area: empty;
-    height: 40px;
-    content: " ";
-    background-color: #eaeae8;
 }
 
 .content-item-image img {
