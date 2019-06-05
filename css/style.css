@@ -466,7 +466,7 @@ html {
     width: 100%;
     overflow-x: hidden;
     font-size:15px;
-    background-color: #efefef;
+    background-color: #f9f9f9;
 }
 
 body {
@@ -475,7 +475,7 @@ body {
     font-style: normal;
     font-size: 1rem;
     line-height:1.5;
-    background-color: #efefef;
+    background-color: #f9f9f9;
     height: 100vw;
     width: 100%;
 }
@@ -541,7 +541,7 @@ h3 {
 
 .grid-item-main {
     padding: 0;
-    background-color: #efefef;
+    background-color: #f9f9f9;
 }
 
 .grid-item-main p, h1, h2, h3, h4 {
