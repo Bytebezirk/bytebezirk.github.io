@@ -379,55 +379,6 @@ background-color:white;
 
 
 @font-face {
-    font-family: 'RootUIVF';
-    font-display: auto;
-    font-weight: normal;
-	font-style: normal;
-    src: url('https://bytebezirk.github.io/fonts/PTRootUI-VF.woff2') format('woff2-variations'), url('https://bytebezirk.github.io/fonts/PTRootUI-VF.woff2') format('woff2');
-}
-
-@font-face {
-    font-family: 'RootUIreg';
-    font-display: auto;
-    src: url('https://bytebezirk.github.io/fonts/regular/PT_Root_UI_Regular.woff2') format('woff2'), url('https://bytebezirk.github.io/fonts/regular/PT_Root_UI_Regular.woff') format('woff'), url('https://bytebezirk.github.io/fonts/regular/PT_Root_UI_Regular.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'RootUIlight';
-    font-display: auto;
-    src: url('https://bytebezirk.github.io/fonts/light/PT_Root_UI_Light.woff2') format('woff2'), url('https://bytebezirk.github.io/fonts/light/PT_Root_UI_Light.woff') format('woff'), url('https://bytebezirk.github.io/fonts/light/PT_Root_UI_Light.ttf') format('truetype');
-    font-weight: 300;
-}
-
-@font-face {
-    font-family: 'RootUIbold';
-    font-display: auto;
-    src: url('https://bytebezirk.github.io/fonts/bold/PT_Root_UI_Bold.woff2') format('woff2'), url('https://bytebezirk.github.io/fonts/bold/PT_Root_UI_Bold.woff') format('woff'), url('https://bytebezirk.github.io/fonts/bold/PT_Root_UI_Bold.ttf') format('truetype');
-    font-weight: 700;
-}
-
-@font-face {
-    font-family: 'FiraCode';
-    font-display: auto;
-    src: url('https://bytebezirk.github.io/fonts/regular/FiraCode-Regular.woff2') format('woff2'), url('https://bytebezirk.github.io/fonts/regular/FiraCode-Regular.woff') format('woff'), url('https://bytebezirk.github.io/fonts/regular/FiraCode-Regular.ttf') format('truetype');
-    font-weight: 400;
-}
-
-@font-face {
-    font-family: 'ETBook';
-    font-display: auto;
-    src: url('https://bytebezirk.github.io/fonts/regular/et-book-roman-line-figures.eot') format('eot'), url('https://bytebezirk.github.io/fonts/regular/et-book-roman-line-figures.woff') format('woff'), url('https://bytebezirk.github.io/fonts/regular/et-book-roman-line-figures.ttf') format('truetype');
-    font-weight: 400;
-}
-
-@font-face {
-    font-family: 'PTSerif';
-    font-display: auto;
-    src: url('https://bytebezirk.github.io/fonts/regular/PT Serif_Regular.woff2') format('woff2'), url('https://bytebezirk.github.io/fonts/regular/PT Serif_Regular.woff') format('woff'), url('https://bytebezirk.github.io/fonts/regular/PT Serif_Regular.eot') format('eot'), url('https://bytebezirk.github.io/fonts/regular/PT Serif_Regular.ttf') format('truetype');
-    font-weight: 400;
-}
-
-@font-face {
     font-family: 'InterBold';
     font-display: auto;
     src: url('https://bytebezirk.github.io/fonts/bold/Inter-ExtraBold.woff2') format('woff2'), url('https://bytebezirk.github.io/fonts/bold/Inter-ExtraBold.ttf') format('truetype'),url('https://bytebezirk.github.io/fonts/bold/Inter-ExtraBold.otf') format('opentype') ;
